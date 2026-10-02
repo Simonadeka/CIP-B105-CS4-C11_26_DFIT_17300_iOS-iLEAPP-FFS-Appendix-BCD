@@ -17,6 +17,11 @@ iOS FS image `13-4-1_tar_9.tar (8.6M)` - Preservation `du -sh 17G` with `cp -r` 
 | WhatsApp 12 entries | ChatStorage 12 | Fig-09 |
 | KnowledgeC Battery 283K + DND 158K + AppUsage 76K | Device behavior | Fig-14 |
 
+### 6A Compliance (for marking)
+- 48h Chronology: 2020-03-12 to 2020-03-14 - 6 events across Safari/KnowledgeC/Call/SMS/WhatsApp - see Section 6A in report PDF
+- Manual Validation: DB Browser for SQLite query validated iLEAPP - see Section 6A
+- Corroborated Relationships: Call 9197627808 = SMS + Contact, Safari search = App Usage + Battery
+
 ## Methodology
 ```bash
 # 1. Preservation - Task A
